@@ -1,2 +1,2 @@
 # XOM-Anime-List
-Console version of MyAnimeList
+Console version of a mini MyAnimeList
